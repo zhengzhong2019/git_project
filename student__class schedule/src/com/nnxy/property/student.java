@@ -1,13 +1,13 @@
 package com.nnxy.property;
 /**
- * ѧ��ʵ����
+ * Ñ§ÉúÊµÌåÀà
  * @author XG402
- *����ʱ�䣺2019/05/07
+ *´´½¨Ê±¼ä£º2019/05/07
  */
 public class student {
-	private int id;
-	private String username;
-	private String password;
+	private int id;//id
+	private String username;//用户名
+	private String password;//密码
 	private int age;
 	private int sex;
 	public student(int id, String username, String password, int age, int sex) {
