@@ -5,7 +5,7 @@ package com.nnxy.property;
  *´´½¨Ê±¼ä£º2019/05/07
  */
 public class student {
-	private int id;//id
+	private int id;//ID
 	private String username;//用户名
 	private String password;//密码
 	private int age;
